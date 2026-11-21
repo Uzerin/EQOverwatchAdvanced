@@ -1,9 +1,13 @@
 ![EQ Overwatch](docs/EQOverwatch-logo.jpg)
 
-# EQ Overwatch
+# EQ Overwatch Advanced
+
+Everything in [EQ Overwatch](https://github.com/Uzerin/EQOverwatch), plus an optional CH Chain auto-press: on your cleric's turn
+in the chain it presses your Complete Heal key (and an optional assist key) while EverQuest is the window in front. Switch it on under
+Settings → Cleric CH chain → Advanced…, or with its hotkey (Ctrl+Alt+F9). On first start it copies your EQ Overwatch settings.
 
 A free Windows companion for EverQuest. It reads your game logs and puts timers, alerts, damage meters and raid tools on screen, for
-as many characters as you play, without touching the game.
+as many characters as you play.
 
 > EverQuest is a trademark of Daybreak Game Company. EQ Overwatch is an independent tool and is not affiliated with or endorsed by Daybreak.
 
