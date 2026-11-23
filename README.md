@@ -53,7 +53,7 @@ as many characters as you play.
 4. On **Characters**, tick **Enable Triggers** for the characters to monitor.
 5. Type `/log on` in game so EverQuest writes logs.
 
-Settings are saved in `%LocalAppData%\EQOverwatch`. When a new version is out, a bar at the top offers **Install update**, which
+Settings are saved in `%LocalAppData%\EQOverwatchAdvanced`. When a new version is out, a bar at the top offers **Install update**, which
 downloads it, checks it and restarts the app; your settings are kept.
 
 **Player count:** once a day the app sends a random id and its version number, so we know how many people use it. No names and no IP
