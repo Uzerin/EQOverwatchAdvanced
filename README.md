@@ -9,7 +9,7 @@ Settings → Cleric CH chain → Advanced…, or with its hotkey (Ctrl+Alt+F9). 
 A free Windows companion for EverQuest. It reads your game logs and puts timers, alerts, damage meters and raid tools on screen, for
 as many characters as you play.
 
-**[Download the latest version](https://github.com/Uzerin/EQOverwatch/releases/latest)** · **[Join us on Discord](https://discord.gg/cDk3xTdkAW)**
+**[Download the latest version](https://github.com/Uzerin/EQOverwatchAdvanced/releases/latest)** · **[Join us on Discord](https://discord.gg/cDk3xTdkAW)**
 
 > EverQuest is a trademark of Daybreak Game Company. EQ Overwatch is an independent tool and is not affiliated with or endorsed by Daybreak.
 
@@ -47,7 +47,7 @@ as many characters as you play.
 
 ## Install
 
-1. Download `EQOverwatch-<version>-win-x64.zip` from the [latest release](https://github.com/Uzerin/EQOverwatch/releases/latest) and unzip it anywhere.
+1. Download `EQOverwatchAdvanced-<version>-win-x64.zip` from the [latest release](https://github.com/Uzerin/EQOverwatchAdvanced/releases/latest) and unzip it anywhere.
 2. Run `EQOverwatch.exe` (nothing else to install).
 3. On **Settings**, choose your EverQuest folder.
 4. On **Characters**, tick **Enable Triggers** for the characters to monitor.
