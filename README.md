@@ -36,7 +36,7 @@ as many characters as you play.
 **Your characters**
 - Inventory, worn gear, spellbook and missing spells for every character and class persona.
 - Skills with their caps, tradeskill success rates and faction for each character.
-- Drop Table: drop rates by mob and item for each server, pooled with other players if you like.
+- Drop Table: drop rates by mob and item for each server, pooled with other players and with servers whose loot is normal.
 - Unanswered tells across all your characters, and a search of every character's chat history.
 - Maps: the Overwatch map pack and your own labels on the in-game maps.
 
@@ -65,6 +65,10 @@ addresses are kept. Untick **Count me in the anonymous player count** on Setting
 - Run `/outputfile inventory`, `spellbook` and `missingspells` in game to fill in character data.
 
 ## Changelog
+
+### 1.0.99
+
+- Teek and Tormax get their own TLP tabs, TLP tables fit their contents, reverse damage shield heals leave the Heals text, and the Drop Table pools servers with normal loot.
 
 ### 1.0.98
 
